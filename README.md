@@ -6,3 +6,5 @@ To add your signature, link to supporting materials, or pledge support, make a p
 
 We believe that the court is more likely to respond favorably to this comment if it is clear that resources exist in the community to help draft data standards and implement an API. To that end, if you or your organization are in a position to volunteer assistance with any portion of the process, please make that clear. 
 
+If you make a pull request, and it is not immediately clear from your GitHub account that you have the authority to sign on behalf of the party you name, expect Colarusso to reach out for some type of validation. For example, if you cite your agency's Twitter handle, Colarusso will attempt to confirm your intent via a Twitter conversation with your agency's official Twitter account.
+

@@ -1,5 +1,7 @@
 # Comment on MA Court Proposed Rules Change
 
+*Note: This comment was submitted to the Court on May 4, 2016.*
+
 This repo contains an open reply to the Massachusetts Trial Court's call for comments regarding its [Proposed Uniform Rules on Public Access to Court Records](http://www.mass.gov/courts/case-legal-res/rules-of-court/rule-changes-invitations-comment/proposed-trial-court-rule-xiv-access-to-court-records.html). It is the joint comment of the individuals and organizations cited in [`index.html`](https://github.com/MA-Court-Comment/MA-Court-Comment.github.io/blob/master/index.html) and served at [http://ma-court-comment.github.io/](http://ma-court-comment.github.io/). 
 
 ### Comment
